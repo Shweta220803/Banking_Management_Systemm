@@ -1,1 +1,3 @@
 Transfer from 10002 Credit 10 Kurkure 2024-07-18 07:00:37
+Transfer to 10005 Debit 30 biscuit 2024-07-18 15:13:28
+Transfer to 10004 Debit 20 ice cream 2024-07-18 15:15:57
